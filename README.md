@@ -2,7 +2,7 @@ Designed and Developed by Mohammed Anas A
 Email: mdanas2k3@gmail.com
 
 
-# Welcome to our Quiz Application!
+# Welcome to my Quiz Application!
 This interactive web application allows users to participate in various quizzes covering a wide range of topics. Whether you're looking to test your knowledge, study for an exam, or simply have some fun, our Quiz Application provides an engaging platform to challenge yourself and learn something new.
 
 # Features
